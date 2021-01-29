@@ -27,7 +27,7 @@ String id = (String) session.getAttribute("id");
 	<div id="login">
 		<%
 		if (id != null) {
-			%>
+			%>jhgvjhfhjgjhfhghjkj
 			<%=id %>님 반가워요~
 			<a href="/member/logout.jsp">로그아웃</a> 
 			<%
